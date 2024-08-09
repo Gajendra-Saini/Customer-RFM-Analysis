@@ -41,7 +41,7 @@ This project conducts a comprehensive RFM (Recency, Frequency, Monetary) analysi
    ```bash
    pip install pandas numpy
    ```
-3. Run the Jupyter notebook or Python script to view the analysis results.
+3. Run the Google Colab or Python script to view the analysis results.
 
 ---
 
